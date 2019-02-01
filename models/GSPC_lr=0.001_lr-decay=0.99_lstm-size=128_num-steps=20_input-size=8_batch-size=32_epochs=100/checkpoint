@@ -1,0 +1,2 @@
+model_checkpoint_path: "stock_rnn_model_GSPC_lr=0.001_lr-decay=0.99_lstm-size=128_num-steps=20_input-size=8_batch-size=32_epochs=100.ckpt-99"
+all_model_checkpoint_paths: "stock_rnn_model_GSPC_lr=0.001_lr-decay=0.99_lstm-size=128_num-steps=20_input-size=8_batch-size=32_epochs=100.ckpt-99"
